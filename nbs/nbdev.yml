@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "modelTest"
+  site-url: "https://Gippers.github.io/modelTest"
+  description: "Test modal and nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/Gippers/modelTest"
