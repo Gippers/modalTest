@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "LocalEntrypoint object at 0x7fce5f924130>\n\n LocalEntrypoint object at 0x7fce5f924130> (*args, **kwargs)\n\n\n\n\nFunctionHandle object at 0x7fce5f954a60>\nInteract with a Modal Function of a live app."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "modelTest",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "modelTest",
+    "section": "Install",
+    "text": "Install\npip install modelTest"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "modelTest",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
