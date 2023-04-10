@@ -30,4 +30,4 @@ jobs:
 
       - name: Deploy job
         run: |
-          modal run modelTest/core.py
+          modal run modelTest.core.py
