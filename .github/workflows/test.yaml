@@ -4,4 +4,7 @@ on:  [workflow_dispatch, pull_request, push]
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      MODAL_TOKEN_ID: ${{ secrets.MODAL_TOKEN_ID }}
+      MODAL_TOKEN_SECRET: ${{ secrets.MODAL_TOKEN_SECRET }}
     steps: [uses: fastai/workflows/nbdev-ci@master]
